@@ -12,7 +12,7 @@ Using advanced statistical modeling techniques and machine learning algorithms, 
 By analyzing a vast corpus of text data, I developed a phrase-to-phrase matching algorithm specifically tailored to the nuances of the English language. This project allowed me to explore natural language processing techniques and build an efficient and accurate system for identifying and extracting meaningful associations between phrases.
 
 - **Wastewater Treatment Plant Upgrade:**
-Working in collaboration with an engineering team, I contributed to a project focused on optimizing the efficiency and sustainability of a wastewater treatment plant. By analyzing historical data, identifying key operational bottlenecks, and implementing data-driven recommendations, we were able to significantly enhance the plant's performance and reduce environmental impact.
+Working in collaboration with an engineering team, I contributed to a project focused on optimizing the efficiency and sustainability of a wastewater treatment plant. By analyzing historical data, identifying key operational bottlenecks, and implementing data-driven recommendations, we were able to develop a recommendation to enhance the plant's performance while reducing cost.
 
 - **Weigh-In-Motion Stations:**
 In this project, I developed a data analytics solution for weigh-in-motion (WIM) stations, which are used to monitor vehicle weights on highways. By processing and analyzing real-time data from these stations, I designed an automated system that detected anomalies and identified potential overloading issues, contributing to improved road safety and maintenance.
