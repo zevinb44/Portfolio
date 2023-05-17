@@ -12,7 +12,6 @@ Utilizing the techniques taught in OR 568 on NBA game statistics, various models
 
 - **U.S Phrase-To-Phrase Matching:**
 The motivation behind this problem stems from the nature of the U.S. Patent and Trademark Office’s work. Every time a patent is submitted it undergoes a vigorous examination process to determine whether an application meets the requirements of a claimed invention, the scope of that claim and if that technology exists already for the claimed invention. This process is repeated twice with the examination spanning the entirety of the U.S. Patent archives (some 11 million patents).
-
 If a model can be trained to determine the similarity between existing patents and new applications this would both reduce the number of man hours required by the patent office to do its job and also improve depth of patents examined during the search leading to better outcomes.
 
 - **Wastewater Treatment Plant Upgrade:**
