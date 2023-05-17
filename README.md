@@ -11,11 +11,15 @@ George Mason University (GMU) is one of only 146 institutions in the United Stat
 
 The number one objective of any sports team is to win games and this fact holds true in the NBA. In the past teams would often rely on the “eye-test” to determine whether a factor like adding a player, changing an offensive scheme, or focusing on a different aspect of the game would lead to more wins. This process is based solely on feeling and personal biases and is often unreliable. 
 Utilizing the techniques taught in OR 568 on NBA game statistics, various models will be trained to determine which game statistics, both basic and advanced, lead to a win and then these models will be used to predict which team would win in the future based on game stats.
+
+
 There are two research questions that this analysis will explore. The primary question is related to the performance of the classifier: Can a model be built to predict which team will win? Additionally, through further analysis of classifier performance, the key input variables will be examined and a determination of which statistics most affect a team’s chances to win.
 
 - **U.S Phrase-To-Phrase Matching:**
 
 The motivation behind this problem stems from the nature of the U.S. Patent and Trademark Office’s work. Every time a patent is submitted it undergoes a vigorous examination process to determine whether an application meets the requirements of a claimed invention, the scope of that claim and if that technology exists already for the claimed invention. This process is repeated twice with the examination spanning the entirety of the U.S. Patent archives (some 11 million patents).
+
+
 If a model can be trained to determine the similarity between existing patents and new applications this would both reduce the number of man hours required by the patent office to do its job and also improve depth of patents examined during the search leading to better outcomes.
 
 - **Wastewater Treatment Plant Upgrade:**
