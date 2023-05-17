@@ -3,7 +3,7 @@ This repository contains projects I have worked on during my academic life and p
 Welcome to my portfolio repository! Here, you will find a curated collection of my past projects from both my academic and personal endeavors as a data scientist. Each project reflects my passion for leveraging data-driven insights to tackle complex challenges and drive meaningful impact.
 
  - **Knowledge Management Graph Database:**
-In this project, I designed and developed a knowledge management system using a graph database. By representing relationships between various entities, such as concepts, documents, and authors, I created an intuitive platform that facilitated efficient information retrieval and knowledge discovery.
+ In this project, I designed and developed a knowledge management system using a graph database. By representing relationships between various entities, such as concepts, documents, and authors, I created an intuitive platform that facilitated efficient information retrieval and knowledge discovery.
 
 Predicting NBA Wins:
 Using advanced statistical modeling techniques and machine learning algorithms, I built a predictive model to forecast NBA team wins based on various factors such as player performance, team statistics, and game dynamics. This project enabled me to demonstrate my ability to extract valuable insights from complex sports data and apply them in a practical setting.
